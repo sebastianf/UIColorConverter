@@ -6,6 +6,8 @@
 	<string>de.sebastianf.uicolorconverter</string>
 	<key>CFBundleName</key>
 	<string>UIColor Converter</string>
+	<key>CFBundleIconFile</key>
+	<string>color</string>
 	<key>CFBundleVersion</key>
 	<string>1.0</string>
 	<key>LBTextInputTitle</key>
