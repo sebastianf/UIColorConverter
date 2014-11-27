@@ -60,11 +60,11 @@ function runWithString(hexColor)
     
     var resultObjectiveC = '[UIColor colorWithRed:' + round(r, 3) + ' green:' + round(g, 3) + ' blue:' + round(b, 3) + ' alpha:' + alpha + ']';
     
-    var resultSwift = '[UIColor colorWithRed:' + round(r, 3) + ' green:' + round(g, 3) + ' blue:' + round(b, 3) + ' alpha:' + alpha + ']';
+    var resultSwift = 'UIColor(red:' + round(r, 3) + ', green:' + round(g, 3) + ', blue:' + round(b, 3) + ', alpha:' + alpha + ')';
     
     
     var result = [{'title': resultObjectiveC, 'icon' : 'color.png'}, {'title': resultSwift, 'icon' : 'color.png'}];
     
-        return result;
+    return result;
 }
 
