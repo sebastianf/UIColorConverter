@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleIdentifier</key>
+	<string>de.sebastianf.uicolorconverter</string>
+	<key>CFBundleName</key>
+	<string>UIColor Converter</string>
+	<key>CFBundleVersion</key>
+	<string>1.0</string>
+	<key>LBTextInputTitle</key>
+	<string>Enter a HEX color String and the alpha value</string>
+	<key>LBScripts</key>
+	<dict>
+		<key>LBDefaultScript</key>
+		<dict>
+			<key>LBScriptName</key>
+			<string>default.js</string>
+			<key>LBAcceptedArgumentTypes</key>
+			<array>
+				<string>string</string>
+			</array>
+			<key>LBRequiresArgument</key>
+			<true/>
+		</dict>
+		<key>LBSuggestionsScript</key>
+		<dict>
+			<key>LBScriptName</key>
+			<string>suggestions.js</string>
+			<key>LBRunInBackground</key>
+			<true/>
+		</dict>
+	</dict>
+	<key>LBDescription</key>
+	<dict>
+		<key>LBSummary</key>
+		<string>creates an UIColor from an Hex Color string.</string>
+		<key>LBAuthor</key>
+		<string>Sebastian Friedrich</string>
+		<key>LBEmail</key>
+		<string>sebastianf@icloud.com</string>
+		<key>LBWebsite</key>
+		<string>http://www.sebastianf.net</string>
+		<key>LBTwitter</key>
+		<string>@sebastianf_net</string>
+	</dict>
+</dict>
+</plist>
