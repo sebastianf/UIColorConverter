@@ -4,7 +4,9 @@ function run()
     
 }
 
-function runWithString(hexColor)
+function runWithString(result)
 {
-
+	if (LaunchBar.options.commandKey) {
+		LaunchBar.paste(result);
+	}
 }

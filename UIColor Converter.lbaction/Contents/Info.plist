@@ -9,9 +9,9 @@
 	<key>CFBundleIconFile</key>
 	<string>color</string>
 	<key>CFBundleVersion</key>
-	<string>1.0</string>
+	<string>1.1</string>
 	<key>LBTextInputTitle</key>
-	<string>Enter a HEX color String and the alpha value</string>
+	<string>Enter a HEX color string and the alpha value, select your preferred output and holding down the ⌘–key while pressing return to paste the result in your editor.</string>
 	<key>LBScripts</key>
 	<dict>
 		<key>LBDefaultScript</key>
@@ -36,7 +36,7 @@
 	<key>LBDescription</key>
 	<dict>
 		<key>LBSummary</key>
-		<string>creates an UIColor from an Hex Color string.</string>
+		<string>Creates an UIColor String from an Hex Color string.</string>
 		<key>LBAuthor</key>
 		<string>Sebastian Friedrich</string>
 		<key>LBEmail</key>
