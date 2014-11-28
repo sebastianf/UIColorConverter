@@ -17,3 +17,13 @@ Enter a HEX color string and the alpha value, select your preferred output and h
 
 All your Launchbar 6 actions are stored in ~/Library/Application Support/Launchbar/actions
 
+
+##Version History
+
+###1.1
+* `new` select the preferred output, hold cmd and press enter. the result will be pasted in your editor
+* `fixed` swift output format
+
+###1.0
+
+* just started
