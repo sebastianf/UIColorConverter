@@ -22,6 +22,7 @@ All your Launchbar 6 actions are stored in ~/Library/Application Support/Launchb
 
 ###1.1
 * `new` select the preferred output, hold cmd and press enter. the result will be pasted in your editor
+* `improved` result handling
 * `fixed` swift output format
 
 ###1.0

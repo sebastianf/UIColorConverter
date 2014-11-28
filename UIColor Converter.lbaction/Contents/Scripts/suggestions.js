@@ -3,6 +3,10 @@ function runWithString(hexColor)
 {
     hexColor = hexColor.replace(/^#/, '');
     
+    if (hexColor.length <1) {
+        return;
+    }
+    
     var tempHexColor = '000000';
     var alpha = '1.00';
     
