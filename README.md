@@ -2,7 +2,7 @@
 
 [LaunchBar 6](http://www.obdev.at/products/launchbar/index.html) action to convert a HEX Color string into a UIColor String.
 
-![HEX to UICOlor](https://dl.dropboxusercontent.com/u/23294/blog/images/UIColorConverter/UIColorConverter.png)
+![HEX to UIColor](https://dl.dropboxusercontent.com/u/23294/blog/images/UIColorConverter/UIColorConverter.png)
 
 ![and with alpha](https://dl.dropboxusercontent.com/u/23294/blog/images/UIColorConverter/UIColorConverterAlpha.png)
 
