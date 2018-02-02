@@ -2,9 +2,9 @@
 
 [LaunchBar 6](http://www.obdev.at/products/launchbar/index.html) action to convert a HEX Color string into a UIColor String.
 
-![HEX to UIColor](https://www.dropbox.com/s/dtgupb3mgfqqt4x/UIColorConverter.png?dl=0)
+![HEX to UIColor](http://www.sebastianf.net/stuff/Bilder/Blog/UIColorLaunchbar/UIColorConverter.png)
 
-![and with alpha](https://www.dropbox.com/s/dtgupb3mgfqqt4x/UIColorConverter.png)
+![and with alpha](http://www.sebastianf.net/stuff/Bilder/Blog/UIColorLaunchbar/UIColorConverterAlpha.png)
 
 
 Enter a HEX color string and the alpha value, select your preferred output and holding down the ⌘–key while pressing return to paste the result in your editor.
