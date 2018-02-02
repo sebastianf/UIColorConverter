@@ -4,7 +4,7 @@
 
 ![HEX to UIColor](https://www.dropbox.com/s/dtgupb3mgfqqt4x/UIColorConverter.png?dl=0)
 
-![and with alpha](https://www.dropbox.com/s/okttexf96py6jux/UIColorConverterAlpha.png?dl=0)
+![and with alpha](https://www.dropbox.com/s/dtgupb3mgfqqt4x/UIColorConverter.png)
 
 
 Enter a HEX color string and the alpha value, select your preferred output and holding down the ⌘–key while pressing return to paste the result in your editor.
